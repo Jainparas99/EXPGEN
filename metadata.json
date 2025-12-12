@@ -1,0 +1,5 @@
+{
+  "name": "ExpGen: Paper to Experiment",
+  "description": "An AI assistant that transforms research papers into concrete, reproducible experimental plans and code blueprints.",
+  "requestFramePermissions": []
+}
